@@ -10,3 +10,5 @@ for the non-stinky-nerds here is the [EXE download page](https://www.google.com)
 just replace main.py to the EXE file name in the useage section,
 tho you can't change the settings if you run it that way as you need to do that via changing the script.
 # Useage
+
+the .schem conversion seems to broke in 1.21 version of litematica and all shulker box inside chest will be empty when loaded, so far the workaround is to paste the .schem file in single player using worldEdit then save it again using litematica or worldEdit(that actually fixs it lmao).
